@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jordwil.github.io/ds_blog/about.html</loc>
+    <lastmod>2023-08-02T05:42:09.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/intro_to_pandas_mpl/intro_pandas_matplotlib.html</loc>
+    <lastmod>2023-08-02T05:42:08.539Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jordwil.github.io/ds_blog/index.html</loc>
+    <lastmod>2023-08-02T05:42:05.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bikeshare/bikeshare.html</loc>
+    <lastmod>2023-08-02T05:42:06.409Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jordwil.github.io/ds_blog/posts/welcome/index.html</loc>
+    <lastmod>2023-08-02T05:42:08.769Z</lastmod>
+  </url>
+</urlset>
