@@ -1,2 +1,2 @@
 # jordwil.github.io
-Personal Blog
+Find my blog [here](jordwil.github.io)
