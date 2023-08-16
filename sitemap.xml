@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jordwil.github.io/ds_blog/about.html</loc>
-    <lastmod>2023-08-06T04:05:27.576Z</lastmod>
+    <lastmod>2023-08-16T19:44:24.629Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/sql_basics/2020-06-30-sql-fun.html</loc>
-    <lastmod>2023-08-06T04:05:27.126Z</lastmod>
+    <lastmod>2023-08-16T19:44:24.174Z</lastmod>
   </url>
   <url>
-    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bikeshare/bikeshare.html</loc>
-    <lastmod>2023-08-06T04:05:23.816Z</lastmod>
+    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bootstrapping/2020-06-01-regression-with-bootstrapping.html</loc>
+    <lastmod>2023-08-16T19:44:20.664Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/index.html</loc>
-    <lastmod>2023-08-06T04:05:23.426Z</lastmod>
+    <lastmod>2023-08-16T19:44:19.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bikeshare/bikeshare.html</loc>
+    <lastmod>2023-08-16T19:44:20.112Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/intro_to_pandas_mpl/intro_pandas_matplotlib.html</loc>
-    <lastmod>2023-08-06T04:05:26.306Z</lastmod>
+    <lastmod>2023-08-16T19:44:23.297Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/welcome/index.html</loc>
-    <lastmod>2023-08-06T04:05:27.356Z</lastmod>
+    <lastmod>2023-08-16T19:44:24.391Z</lastmod>
   </url>
 </urlset>
