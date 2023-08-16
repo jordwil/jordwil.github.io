@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "A data science blog",
     "section": "",
-    "text": "Bootstrapping confidence\n\n\n\n\n\n\n\nanalysis\n\n\ndata viz\n\n\nstatistics\n\n\nmachine learning\n\n\npython\n\n\n\n\nAn practical example of bootstrapping in python.\n\n\n\n\n\n\nAug 16, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nSQL Practice\n\n\n\n\n\n\n\nsql\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWorking With Polars\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\ndata viz\n\n\n\n\nComparing the speed of polars vs pandas\n\n\n\n\n\n\nAug 1, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nData Analysis with Pandas, Plotly and Seaborn - Part 1\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\ndata viz\n\n\n\n\nAn introduction to data analytics in python\n\n\n\n\n\n\nAug 1, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\nNo matching items"
+    "text": "Bootstrapping confidence\n\n\n\n\n\n\n\nanalysis\n\n\ndata viz\n\n\nstatistics\n\n\nmachine learning\n\n\npython\n\n\n\n\nAn practical example of bootstrapping in python.\n\n\n\n\n\n\nAug 16, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nSQL Practice\n\n\n\n\n\n\n\nsql\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 5, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nWorking With Polars\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\ndata viz\n\n\n\n\nComparing the speed of polars vs pandas\n\n\n\n\n\n\nAug 1, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nData Analysis with Pandas, Plotly and Seaborn - Part 1\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\ndata viz\n\n\n\n\nAn introduction to data analytics in python\n\n\n\n\n\n\nAug 1, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2023\n\n\nJordan Wilheim\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/bikeshare/bikeshare.html",
@@ -130,6 +130,6 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "I’m renewing my blog in an attempt to learn by posting and post some of the things that I’ve found useful for my career as a data scientist."
+    "text": "I’m hoping to post every few days structured mini-projects with the hopes that can prove helpful to analysis of any skill level. The bulk of what you’ll see is Pandas, Matplotlib, and skikit-learn code. Hope you get to learn a thing or two!"
   }
 ]
