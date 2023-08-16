@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jordwil.github.io/ds_blog/about.html</loc>
-    <lastmod>2023-08-16T19:49:14.204Z</lastmod>
+    <lastmod>2023-08-16T19:54:59.636Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/sql_basics/2020-06-30-sql-fun.html</loc>
-    <lastmod>2023-08-16T19:49:13.727Z</lastmod>
+    <lastmod>2023-08-16T19:54:59.137Z</lastmod>
   </url>
   <url>
-    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bootstrapping/2020-06-01-regression-with-bootstrapping.html</loc>
-    <lastmod>2023-08-16T19:49:10.217Z</lastmod>
+    <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bootstrapping/regression-with-bootstrapping.html</loc>
+    <lastmod>2023-08-16T19:54:55.151Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/index.html</loc>
-    <lastmod>2023-08-16T19:49:08.603Z</lastmod>
+    <lastmod>2023-08-16T19:54:53.601Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/bikeshare/bikeshare.html</loc>
-    <lastmod>2023-08-16T19:49:09.416Z</lastmod>
+    <lastmod>2023-08-16T19:54:54.468Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/post-with-code/intro_to_pandas_mpl/intro_pandas_matplotlib.html</loc>
-    <lastmod>2023-08-16T19:49:12.861Z</lastmod>
+    <lastmod>2023-08-16T19:54:58.216Z</lastmod>
   </url>
   <url>
     <loc>https://jordwil.github.io/ds_blog/posts/welcome/index.html</loc>
-    <lastmod>2023-08-16T19:49:13.955Z</lastmod>
+    <lastmod>2023-08-16T19:54:59.376Z</lastmod>
   </url>
 </urlset>
